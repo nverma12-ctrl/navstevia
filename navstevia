@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NavStevia - Genomic Database</title>
+    <!-- Link to external CSS file -->
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <img src="images/stevia-logo.png" alt="NavStevia Logo" class="logo">
+                <h1>Welcome to NavStevia</h1>
+                <p>Your go-to resource for Stevia genomic information</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="container">
+            <ul class="nav-list">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#genomes">Genomes</a></li>
+                <li><a href="#research">Research</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content Section -->
+    <section id="home" class="content-section">
+        <div class="container">
+            <h2>About NavStevia</h2>
+            <p>NavStevia is a comprehensive genomic database dedicated to the study and research of the Stevia plant. 
+            It provides access to various genomic resources, including genome sequences, gene models, and other 
+            related information.</p>
+            <img src="images/stevia-home.png" alt="Stevia Plant" class="main-image">
+        </div>
+    </section>
+
+    <section id="genomes" class="content-section">
+        <div class="container">
+            <h2>Available Genomes</h2>
+            <p>Explore the Stevia genomic data including various strains and genetic traits.</p>
+            <ul>
+                <li><a href="#">Stevia Genomic Data - Version 1</a></li>
+                <li><a href="#">Stevia Chloroplast Genome</a></li>
+                <li><a href="#">Stevia Mitochondrial Genome</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="research" class="content-section">
+        <div class="container">
+            <h2>Research & Publications</h2>
+            <p>Access our collection of research articles and publications related to Stevia genomics.</p>
+            <ul>
+                <li><a href="#">Understanding Stevia's Genetic Makeup</a></li>
+                <li><a href="#">Applications of Stevia in Agriculture</a></li>
+                <li><a href="#">The Future of Stevia Biotechnology</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact" class="content-section">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or need more information, feel free to contact us.</p>
+            <p>Email: <a href="mailto:contact@navstevia.org">contact@navstevia.org</a></p>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 NavStevia. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
+
