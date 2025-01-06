@@ -1,0 +1,51 @@
+body {
+    font-family: 'Open Sans', 'Josefin Slab', serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.brand {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #4CAF50;
+    border: none;
+    margin-bottom: 0;
+}
+
+.navbar a {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: #45a049;
+    color: white !important;
+}
+
+.box {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.img-responsive {
+    margin: auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
